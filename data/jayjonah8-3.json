@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "Shadowed inherited value used as argument in `initialize()` function ",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/3"
+}
