@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "m4rio_eth",
+  "address": "0xFD50b031E778fAb33DfD2Fc3Ca66a1EeF0652165",
+  "risk": "3",
+  "title": "Reentrancy in StakerVault.unstakeFor",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/25"
+}
