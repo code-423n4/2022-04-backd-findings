@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "orion",
+  "address": "0xa270bb1241FF428927406e5Fde47e7EA8592aFb1",
+  "risk": "2",
+  "title": "Missing access control on locking functions",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/23"
+}
