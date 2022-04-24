@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "3",
+  "title": "EthPool doTransferOut functions call native payable.transfer, which can be unusable for smart contract calls",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/32"
+}
