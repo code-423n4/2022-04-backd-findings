@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "LiquidityPool:Unsupported fee-on-transfer tokens",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/34"
+}
