@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "2",
+  "title": "Deposit cap in LiquidityPool can be by pass when deal with ERC721",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/33"
+}
