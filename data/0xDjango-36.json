@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "3",
+  "title": "User can steal all rewards due to checkpoint after transfer",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/36"
+}
