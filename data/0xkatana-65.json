@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "0xkatana",
+  "address": "0x195d5C9A18348765F2BD62a7dc8D389554a28d82",
+  "risk": "2",
+  "title": "Incorrect Aave handler getReserveData call",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/65"
+}
