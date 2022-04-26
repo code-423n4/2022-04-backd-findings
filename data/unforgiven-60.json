@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "function lockFunds in TopUpActionLibrary can cause serious fund lose. fee and Capped bypass. It's not calling stakerVault.increaseActionLockedBalance when transfers stakes.",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/60"
+}
