@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "shenwilly",
+  "address": "0x8b21033337a7066bCFf10Fe0b3CA2A9DA1c58A1d",
+  "risk": "2",
+  "title": "`LiquidityPool` deposits doesn't account for fee on transfer tokens",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/46"
+}
