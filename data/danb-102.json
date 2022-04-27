@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "danb",
+  "address": "0x5aDFFa8A38adc0810c1D714624F8Ce52A3a27961",
+  "risk": "3",
+  "title": "first depositor can drain other depositors",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/102"
+}
