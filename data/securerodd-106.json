@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "securerodd",
+  "address": "0x18564BE77AEd882651D2c0c791477BDe4a0F8C3d",
+  "risk": "2",
+  "title": "VaultReserve deposit() function may not always credit ETH deposits",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/106"
+}
