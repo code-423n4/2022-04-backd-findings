@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "CvxCrvRewardsLocker implements a swap without a slippage check that can result in a loss of funds through MEV",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/161"
+}
