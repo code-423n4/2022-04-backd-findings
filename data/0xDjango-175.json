@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/175"
+}
