@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "berndartmueller",
+  "address": "0x6A897b32996D342535791a74B8a40E75DDf2486e",
+  "risk": "2",
+  "title": "Chainlink's `latestRoundData` might return stale or incorrect results",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/140"
+}
