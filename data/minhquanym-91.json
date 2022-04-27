@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "minhquanym",
+  "address": "0x616e6EC41bE589C7Cd08ee9E2fE8dD0Eaddd8941",
+  "risk": "2",
+  "title": "Unable to set LpToken again due to `safeApprove` revert",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/91"
+}
