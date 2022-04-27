@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "sseefried",
+  "address": "0x033e21B02373489ff2f7a2c2f1B109a1bC6158aD",
+  "risk": "2",
+  "title": "Malicious Stakers can grief Keepers",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/194"
+}
