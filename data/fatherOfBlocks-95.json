@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "fatherOfBlocks",
+  "address": "0xd5a2686B02A15b5269848DEe6e913F07F459782E",
+  "risk": "2",
+  "title": "does not follow the check effect interact pattern",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/95"
+}
