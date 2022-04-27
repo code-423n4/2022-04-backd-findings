@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "0x52",
+  "address": "0x522DFfc539c264A8f7E0B91102E899b33f4DAbc3",
+  "risk": "2",
+  "title": "Position owner should set allowed slippage",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/87"
+}
