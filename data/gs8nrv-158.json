@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "gs8nrv",
+  "address": "0xCF263cEe139763114fAaFC5F52865135412F50Ec",
+  "risk": "3",
+  "title": "RoleManager.sol: `_revokeRole` doesn't remove from the _roleMembers[role] set",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/158"
+}
