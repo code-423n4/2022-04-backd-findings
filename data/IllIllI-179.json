@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Oracle data feeds are insufficiently validated",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/179"
+}
