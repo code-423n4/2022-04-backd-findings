@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "2",
+  "title": "Oracle price could not be fresh",
+  "issueId": 155,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/155"
+}
