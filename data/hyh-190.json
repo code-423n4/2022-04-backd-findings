@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "EthPool use payable.transfer with an arbitrary receiver",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/190"
+}
