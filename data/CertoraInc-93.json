@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "CertoraInc",
+  "address": "0x009dA689fE16166448B0D6C0f5D2F82033A16B8A",
+  "risk": "2",
+  "title": "Steal funds from the system if the there is a problem with an erc20 token.",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/93"
+}
