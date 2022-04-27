@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "antonttc",
+  "address": "0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1",
+  "risk": "2",
+  "title": "_revokeRole doesn't remove account from roleMember set",
+  "issueId": 164,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/164"
+}
