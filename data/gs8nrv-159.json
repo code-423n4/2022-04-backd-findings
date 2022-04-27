@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "gs8nrv",
+  "address": "0xCF263cEe139763114fAaFC5F52865135412F50Ec",
+  "risk": "3",
+  "title": "Chainlink oracle read can be the inverse of the value you are looking for",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/159"
+}
