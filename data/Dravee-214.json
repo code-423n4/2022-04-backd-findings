@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "Dravee",
+  "address": "0x319DCd0306908Ce08Ffa6F5e5b6B6a4ff8CCB9DE",
+  "risk": "2",
+  "title": "Deprecated safeApprove() function",
+  "issueId": 214,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/214"
+}
