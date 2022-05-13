@@ -1,7 +1,7 @@
 {
   "contest": 112,
   "handle": "m4rio_eth",
-  "address": "0xFD50b031E778fAb33DfD2Fc3Ca66a1EeF0652165",
+  "address": "0xc8E2806A97413b5496A1ba6050b517CC98D0EfCA",
   "risk": "3",
   "title": "Reentrancy in StakerVault line 110 pool.handleLpTokenTransfer(msg.sender, account, amount); then balances are updated afterwards",
   "issueId": 24,
