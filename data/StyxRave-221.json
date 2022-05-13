@@ -1,0 +1,9 @@
+{
+  "contest": 112,
+  "handle": "StyxRave",
+  "address": "0x55118951Ac44B0f58B9382211bdF58149ef13333",
+  "risk": "2",
+  "title": "decimalMultiplier assumes tokens have <= 18 decimals",
+  "issueId": 221,
+  "issueUrl": "https://github.com/code-423n4/2022-04-backd-findings/issues/221"
+}
